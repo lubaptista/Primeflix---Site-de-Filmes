@@ -24,6 +24,7 @@ Em seguida rode:
 npm start
 ```
 Para executar o projeto em modo de desenvolvimento.
+
 Abra http://localhost:3000 para visualizar no navegador.
 
 ## 🛠️ Tecnologias utilizadas
